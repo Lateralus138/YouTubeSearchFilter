@@ -34,6 +34,6 @@ jobs:
         allowUpdates: True
         tag: Continuous
         name: Continuous Build
-        prerelease: True
+        prerelease: False
         artifacts: "appimage/ytsf-x86_64.AppImage,src/ytsf,src/ytsf.bash"
         token: ${{ secrets.GITHUB_TOKEN }}

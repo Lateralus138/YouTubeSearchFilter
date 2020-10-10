@@ -1,0 +1,15 @@
+
+ ytsf [OPTIONS]... <QUERY>...
+ Use your 'XDG' program of choice to do a YouTube search with
+ a pre-filter.
+
+ OPTIONS:  OPTIONS and QUERY can be in any order.
+	-h,--help		This help message.
+	-r,--relevance	Do a search by 'Relevance'.
+	-u,--uploaddate	Do a search by 'Upload Date'.
+	-v,--viewcount	Do a search by 'View Count'.
+	-R,--rating		Do a search by 'Rating'.
+
+ QUERY:
+	String			Search query by string.
+
