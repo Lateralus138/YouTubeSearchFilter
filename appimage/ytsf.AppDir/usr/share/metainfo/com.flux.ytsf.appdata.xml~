@@ -4,15 +4,15 @@
 	<metadata_license>FSFAP</metadata_license>
 	<project_license>LGPL-3.0</project_license>
 	<name>ytsf</name>
-	<summary>YouTube Pre-Filtered Search</summary>
+	<summary>Benchmark command line commands</summary>
 	<description>
-		<p>Do YouTube searches with (or without) a pre-filter from the Linux Bash command line since we can't do them at YouTube ourselves.</p>
+		<p>Cross-platform command line tool to benchmark commands in command lines written in `Fortran`. Very precise and fast.</p>
 	</description>
 	<launchable type="desktop-id">ytsf.desktop</launchable>
-	<url type="homepage">https://github.com/Lateralus138/YouTubeSearchFilter</url>
+	<url type="homepage">https://github.com/Lateralus138/benchmark-commandline-fortran</url>
 	<screenshots>
 		<screenshot type="default">
-			<image>https://raw.githubusercontent.com/Lateralus138/YouTubeSearchFilter/master/media/ytsf.png</image>
+			<image>https://raw.githubusercontent.com/Lateralus138/UniShellect/master/media/demo.png</image>
 		</screenshot>
 	</screenshots>
 	<provides>
