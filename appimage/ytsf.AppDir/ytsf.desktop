@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ytsf
+Exec=ytsf %F
+Icon=ytsf
+Terminal=true
+Type=Application
+Categories=Utility;
