@@ -31,6 +31,7 @@ Do YouTube searches with (or without) a pre-filter from the Linux Bash command l
 
 ## Index
 - [YouTube Search Filter](#youtube-search-filter)
+	- [Support Me If You Like](#support-me-if-you-like)
 	- [Coming Soon](#coming-soon)
 	- [Description](#description)
 	- [Index](#index)
