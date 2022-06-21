@@ -9,9 +9,15 @@
 ![Linux Utility](https://img.shields.io/static/v1?label=Utility&message=Linux&color=blue&style=for-the-badge&labelColor=1d1d1d) ![Command Line Utility](https://img.shields.io/static/v1?label=Utility&message=Command%20Line&color=blueviolet&style=for-the-badge&labelColor=1d1d1d)
 ![Bash Utility](https://img.shields.io/static/v1?label=Utility&message=Bash&color=**important**&style=for-the-badge&labelColor=1d1d1d) ![YouTubeSearchFilter](https://img.shields.io/github/downloads/Lateralus138/YouTubeSearchFilter/total?style=for-the-badge&label=Total%20Downloads&labelColor=1d1d1d)
 
-If you like this project and care to donate to my PayPal:
+---
 
-[![PayPal Donation](./docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US)
+If you like this project and care to donate to my ***PayPal***:
+
+[![PayPal Donation](docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US)
+
+Or ***Buy Me A Coffee*** if your prefer:
+
+[![Buy Me A Coffee](./docs/media/images/buymeacoffe_a.png)](https://www.buymeacoffee.com/ianalanpride)
 
 ## Coming Soon
 
